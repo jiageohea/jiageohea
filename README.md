@@ -47,14 +47,9 @@
 			alt="vuejs" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=jiageohea&show_icons=true&locale=en&layout=compact"
-		alt="me" /></p>
-		
-		<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me&show_icons=true&locale=en&layout=compact" alt="me" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiageohea&show_icons=true&locale=en&layout=compact" alt="me" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me&show_icons=true&locale=en"
-		alt="me" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiageohea&show_icons=true&locale=en" alt="me" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me&" alt="me" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiageohea&" alt="me" /></p>
 
